@@ -1,0 +1,2 @@
+Pegar aquí la URL real del repositorio de GitHub:
+https://github.com/virgilio05/-Sistema_de_Gestion_de_Cursos-SGC-

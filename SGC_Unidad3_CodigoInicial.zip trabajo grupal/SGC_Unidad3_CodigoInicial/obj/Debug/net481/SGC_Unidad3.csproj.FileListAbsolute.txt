@@ -1,0 +1,12 @@
+C:\Users\dylan\Downloads\SGC_Unidad3_CodigoInicial\obj\Debug\net481\SGC_Unidad3.csproj.AssemblyReference.cache
+C:\Users\dylan\Downloads\SGC_Unidad3_CodigoInicial\obj\Debug\net481\SGC_Unidad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\Downloads\SGC_Unidad3_CodigoInicial\obj\Debug\net481\SGC_Unidad3.AssemblyInfoInputs.cache
+C:\Users\dylan\Downloads\SGC_Unidad3_CodigoInicial\obj\Debug\net481\SGC_Unidad3.AssemblyInfo.cs
+C:\Users\dylan\Downloads\SGC_Unidad3_CodigoInicial\obj\Debug\net481\SGC_Unidad3.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Downloads\SGC_Unidad3_CodigoInicial\bin\Debug\net481\SGC_Unidad3.exe.config
+C:\Users\dylan\Downloads\SGC_Unidad3_CodigoInicial\bin\Debug\net481\SGC_Unidad3.exe
+C:\Users\dylan\Downloads\SGC_Unidad3_CodigoInicial\bin\Debug\net481\SGC_Unidad3.pdb
+C:\Users\dylan\Downloads\SGC_Unidad3_CodigoInicial\bin\Debug\net481\Newtonsoft.Json.dll
+C:\Users\dylan\Downloads\SGC_Unidad3_CodigoInicial\obj\Debug\net481\SGC_Unid.9EFF4FE3.Up2Date
+C:\Users\dylan\Downloads\SGC_Unidad3_CodigoInicial\obj\Debug\net481\SGC_Unidad3.exe
+C:\Users\dylan\Downloads\SGC_Unidad3_CodigoInicial\obj\Debug\net481\SGC_Unidad3.pdb
